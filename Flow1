@@ -1,0 +1,30 @@
+[
+    {
+        "id": "cb90802.b804b8",
+        "type": "change",
+        "z": "39ab87ad.e6cee8",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "0",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 440,
+        "y": 500,
+        "wires": [
+            [
+                "ccbf3050.a6d52",
+                "69610302.f4374c"
+            ]
+        ]
+    }
+]
